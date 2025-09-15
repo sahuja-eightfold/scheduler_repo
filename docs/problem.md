@@ -5,18 +5,18 @@ You are given a simple Python scheduler. Extend it to support additional functio
 
 ## Tasks
 
-### Software Engineer (SE)
+### Level 1 
 - Add cancellation (`cancel(task_id)`)
 - Prevent duplicate task IDs
 - Write unit tests
 
-### Senior Software Engineer (SSE)
+### Level 2
 - Add recurring tasks
 - Use a priority queue for efficiency
 - Handle task errors gracefully
 - Add pause/resume functionality
 
-### Lead Engineer (LE)
+### Level 3
 - Scale to millions of tasks
 - Support distributed scheduling
 - Add metrics collection
